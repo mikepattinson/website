@@ -7,23 +7,36 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css">
 
-{% seo %}
   </head>
 
   <body>
 
     <!-- HEADER -->
+    <div class="header-inner section-inner">
+      <div class="header-titles-wrapper">
+        <div class="header-titles">
+          <div class="site-logo faux-heading">
+            <a href="/" class="custom-logo-link" rel="home" aria-current="page"><img width="90px" height="90px" src="/assets/images/logo.png" class="custom-logo" alt="Mike Pattinson Associates" ></a>
+          </div>
+          <div class="site-description">Transformation. Growth. Impact.</div><!-- .site-description -->
+        </div><!-- .header-titles -->
+      </div><!-- .header-titles-wrapper -->
+
+      <div class="header-navigation-wrapper">
+        <nav class="primary-menu-wrapper" aria-label="Horizontal" role="navigation">
+          <ul class="primary-menu reset-list-style">
+            <li><a href="/" aria-current="page">Mike Pattinson Associates</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/meet-mike">Meet Mike</a></li>
+          </ul>
+        </nav><!-- .primary-menu-wrapper -->
+      </div><!-- .header-navigation-wrapper -->
+
+    </div>
+
     <div id="header_wrap" class="outer">
-        <header class="inner">
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
+        <header class="title-inner">
+          <h1 id="project_title">{{ site.title }}</h1>
         </header>
     </div>
 
@@ -38,6 +51,7 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <p>Company number 12789315</a></p>
+        <hr />
         <p class="copyright">© 2021 Mike Pattinson Associates</p>
       </footer>
     </div>
