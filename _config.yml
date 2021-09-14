@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Mike Pattinson Associates
-description: Transformation. Growth. Impact.
+site:
+  github:
+    is_project_page: false

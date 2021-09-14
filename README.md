@@ -1,4 +1,4 @@
-## Transformation. Growth. Impact.
+### Transformation. Growth. Impact.
 
 **Never underestimate the power of a small group of committed people to change the world. In fact, it’s the only thing that ever has.**
 
