@@ -14,13 +14,13 @@ My work covers **strategy**, **capability** and **delivery**. Usually, it spans 
 <div class="homeimgs">
   <a href="/services">
     <figure href="/services">
-      <img src="/assets/images/services.jpeg" alt="Services"/>
+      <img src="./assets/images/services.jpeg" alt="Services"/>
       <figcaption>Services</figcaption>
     </figure>
   </a>
   <a href="/meet-mike">
     <figure>
-      <img src="/assets/images/mike.png" alt="About Mike Pattinson"/>
+      <img src="./assets/images/mike.png" alt="About Mike Pattinson"/>
       <figcaption>About Mike Pattinson</figcaption>
     </figure>
   </a>
