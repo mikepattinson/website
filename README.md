@@ -5,3 +5,8 @@
 I work with leaders who want to transform, grow and increase the impact of their organisations.
 
 My work covers **strategy**, **capability** and **delivery**. Usually, it spans all three.
+
+<!-- IMAGES TO GO HERE -->
+
+Contact us:
+info@mikepattinson.org.uk
