@@ -3,7 +3,7 @@ layout: default
 permalink: /meet-mike
 heading: Meet Mike
 ---
-![A black and white photo of Mike Pattinson in a shirt, smiling at the camera](/assets/images/mike.png)
+![A black and white photo of Mike Pattinson in a shirt, smiling at the camera](./assets/images/mike.png)
 
 I work with organisations that are striving for social justice and positive change, helping them develop and sustain a clear sense of purpose, strong values and creative environments – all of which are key to sustainable growth and making a lasting impact.
 
