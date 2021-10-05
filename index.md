@@ -1,5 +1,6 @@
 ---
 layout: default
+heading: Mike Pattinson Associates
 ---
 ## Transformation. Growth. Impact.
 
